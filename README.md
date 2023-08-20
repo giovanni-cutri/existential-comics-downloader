@@ -1,5 +1,3 @@
-![Socialify](https://github.com/giovanni-cutri/existential-comics-downloader/blob/main/resources/socialify-logo.png)
-
 # existential-comics-downloader
  
 This Python script downloads the entire Existential Comics webcomic found on https://existentialcomics.com/.
